@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Links you love</title>
+    </head>
+    <body>
+        
+        <h1>Links I love</h1>
+        
+        <ul>
+            <li><a href="https://www.pinterest.es/">Pinterest</a></li>
+            <li><a href="https://www.spotify.com/es/">Spotify</a></li>
+            <li><a href="https://www.youtube.com/">Youtube </a>></li>
+        </ul>
+
+        <a href= "https://www.instagram.com/?hl=es"><img src="https://www.kasandbox.org/programming-images/cute/Heart.png"></a>
+        
+    </body>
+</html>
